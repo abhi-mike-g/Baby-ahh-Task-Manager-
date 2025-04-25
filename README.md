@@ -11,7 +11,7 @@ To set up the Task Manager application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/abhi-mike-g/Baby-ahh-Task-Manager-)>
    ```
 
 2. Navigate to the project directory:
